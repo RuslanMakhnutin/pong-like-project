@@ -14,3 +14,15 @@ I want to master the basic mechanics of colliding and moving objects, as well as
 
 ### Screenshots:
 - Will be add later
+
+## Controls Player 1
+| Keys | Description |
+| ------ | ------ |
+| W | Player 1 move up |
+| S | Player 1 move down |
+
+## Controls Player 2
+| Keys | Description |
+| ------ | ------ |
+| ↑ | Player 2 move up |
+| ↓ | Player 2 move down |
